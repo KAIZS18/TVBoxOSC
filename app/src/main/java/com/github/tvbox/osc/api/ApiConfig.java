@@ -124,7 +124,7 @@ public class ApiConfig {
                             callback.error("解析配置失败");
                         }
                     }
-
+https://KAIZS18.github.io/111.txt
                     @Override
                     public void onError(Response<String> response) {
                         super.onError(response);
